@@ -251,7 +251,7 @@
         {
           "name": "LiveTV",
           "urls": [
-            "proxy://do=live&type=txt&ext=Y2xhbjovL0RDSU0vTGl2ZVRWLnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2xrNTQ5ODc2ODEvdHZib3gvYmxvYi9tYWluL0xpdmVUVi50eHQ="
           ]
         }
       ]
@@ -1176,5 +1176,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "clan://DCIM/@baddychen.jar"
+  "spider": "https://github.com/lk54987681/tvbox/blob/main/%40baddychen.jar"
 }
