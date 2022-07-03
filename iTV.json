@@ -251,7 +251,7 @@
         {
           "name": "LiveTV",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2xrNTQ5ODc2ODEvdHZib3gvYmxvYi9tYWluL0xpdmVUVi50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvbGs1NDk4NzY4MS90dmJveC9tYWluL0xpdmVUVi50eHQ="
           ]
         }
       ]
