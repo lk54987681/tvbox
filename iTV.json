@@ -1,7 +1,7 @@
-  // 配置地址 --> https://github.com/lk54987681/tvbox/main/iTV.json
+  // 配置地址 --> https://raw.fastgit.org/lk54987681/tvbox/main/iTV.json
 
 {
-"spider":"https://github.com/lk54987681/tvbox/main/iTV.jar",
+"spider":"https://raw.fastgit.org/lk54987681/tvbox/main/iTV.jar",
 
 //直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
