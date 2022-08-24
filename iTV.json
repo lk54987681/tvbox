@@ -1,11 +1,12 @@
-  // 配置地址 --> https://raw.fastgit.org/lk54987681/tvbox/main/iTV.json
+  // 配置地址 --> https://agit.ai/lk54987681/tvbox/raw/branch/main/iTV.json
 
 {
-"spider":"https://raw.fastgit.org/lk54987681/tvbox/main/iTV.jar",
-
+"spider":"https://agit.ai/lk54987681/tvbox/raw/branch/main/iTV.jar",
+//壁纸
+"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2xrNTQ5ODc2ODEvdHZib3gvbWFpbi9MaXZlVFYudHh0"
+"lives":[{"group":"redirect","channels":[{"name":"LiveTV","urls":[
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xrNTQ5ODc2ODEvdHZib3gvcmF3L2JyYW5jaC9tYWluL0xpdmVUVi50eHQ="
 ]}]}],
 
 "sites":[
@@ -61,11 +62,11 @@
 {"key":"csp_Tkys","name":"📡天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Smdyy_spider","name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key": "csp_Yiso"    ,"name":"📀易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"自己的Token"},
-{"key": "csp_Gitcafe"    ,"name":"📜阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"自己的Token"},  
-{"key": "csp_AliPS"  ,"name":"🐱阿里喵搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"自己的Token"},
-{"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"自己的Token"},
-{"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"自己的Token"},
+{"key": "csp_Yiso"    ,"name":"📀易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"e248bb8515f249a18c46d31702b07bc8"},
+{"key": "csp_Gitcafe"    ,"name":"📜阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"e248bb8515f249a18c46d31702b07bc8"},  
+{"key": "csp_AliPS"  ,"name":"🐱阿里喵搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"e248bb8515f249a18c46d31702b07bc8"},
+{"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"e248bb8515f249a18c46d31702b07bc8"},
+{"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"e248bb8515f249a18c46d31702b07bc8"},
 //官采
 //{"key":"csp_xml___影视","name":"💽影视(切)","type":1,"api":"https://video.yingworld.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 

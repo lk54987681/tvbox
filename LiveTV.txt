@@ -1,6 +1,3 @@
-🔐丨0716更新,#genre#
-失效反馈/www.g2.pub,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8?$22/07/16更新接口/失效请反馈/www.g2.pub#https://huya-w21.huya.com/1909/128113135/1300/c00b7991650ee40e5c4e867c731e0318.m3u8#https://videotx-platform.cdn.huya.com/1048585/1199512837905/25166219/5c02c6de33c7b0970c608ad73ac9b592.m3u8
-
 🇨🇳丨央视频道,#genre#
 CCTV-1,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 CCTV-1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230242/index.m3u8
